@@ -125,4 +125,1343 @@ export default {
     height: 32px;
     fill: blueviolet;
 }
+@media (max-width: 1980px){
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.60em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 1280px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.50em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 1024px) and (max-height: 1366px){
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.40em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 1024px) and (max-height: 600px){
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.60em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 768px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.30em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 430px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.25em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 414px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.25em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 412px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.25em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 390px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.25em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 375px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.25em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 360px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.25em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 344px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.25em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
+@media (max-width: 320px) {
+	.HomeContentWelcome{
+		color: #dbd820;
+		text-align: center;
+		letter-spacing: .1em;
+		text-shadow: 0 0 10px rgba(0, 0, 0, .8);
+		font-size: 0.25em;
+		background: #313112a9;
+		border: 1px solid rgba(255, 231, 17, .5);
+		padding: 10px 10px 10px 10px;
+		border-radius: 20px;
+		backdrop-filter: blur(20px);
+	}
+	.Welcome{
+		font-size: 2em;
+	}
+
+	.Content{
+		font-size: 3.5em;
+		padding-bottom: 30px;
+	}
+	.ButtonsC{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+	}
+	.BoostyLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		padding-right: 10px;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.BoostyLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonBusty {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonBusty:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.Boosty{
+		width: 32px;
+		height: 32px;
+	}
+	.VKFLink{
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		color: #dbd820;
+		text-decoration: none;  
+	}
+	.VKFLink:hover{
+		color: black;
+		text-decoration: none;    
+	}
+	.ButtonVKF {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.3em;
+		color: #dbd820;
+		font-weight: 600;
+		padding: 10px 50px;
+		cursor: pointer;
+		border-radius: 40px;
+		background: transparent;
+		border: 2px solid #dbd820;
+		outline: none;
+		transition: .5s;
+		text-decoration: none;
+	}
+	.ButtonVKF:hover{
+		background: #dbd820;
+		color: black;
+		text-decoration: none;
+		
+	}
+	.VKF{
+		width: 32px;
+		height: 32px;
+		fill: blueviolet;
+	}
+}
 </style>

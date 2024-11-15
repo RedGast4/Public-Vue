@@ -76,4 +76,550 @@ export default {
   justify-content: center;
   align-items: center;
 }
+@media (max-width: 1980px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 1280px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 1024px) and (max-height: 1366px){
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 1024px) and (max-height: 600px){
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 768px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 430px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.25em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 414px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 412px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 390px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 375px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 360px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 344px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
+@media (max-width: 320px) {
+	.Header{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 100px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		z-index: 100;
+	}
+
+	.HeaderLogoLink{
+		text-decoration: none;
+	}
+
+	.HeaderLogo{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.7em;
+		cursor: default;
+		color: #dbd820;
+	}
+
+	.HeaderLogoImg{
+		padding-right: 30px;
+	}
+
+	.AppContentNav{
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url('assets/images/background-elf.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	}
+}
 </style>
