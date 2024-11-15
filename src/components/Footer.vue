@@ -2,7 +2,7 @@
     <div class="Footer">
         <div class="FooterMusic" @click="controlBtn">
             <audio id="Music" preload="auto">
-                <source src="./assets/music/Pride and Penance.mp3" type="audio/mp3">
+                <source src="../assets/music/Pride and Penance.mp3" type="audio/mpeg">
             </audio>
             <div id="Player-Container">
                 <div id="Play-Pause" class="Play">Play</div>
