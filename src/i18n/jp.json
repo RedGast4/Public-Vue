@@ -1,0 +1,42 @@
+{
+    "login": {
+        "title": "ぉぎん",
+        "email": "Email",
+        "password": "パスワード",
+        "remember": "私を覚えてますか",
+        "forgot": "パスワードをお忘れですか？",
+        "btn": "Login",
+        "dont": "アカウントをお持ちでない場合は、",
+        "link": "登録する"
+    },
+    "register": {
+        "title": "登録",
+        "username": "Username",
+        "email": "Email",
+        "password": "パスワード",
+        "remember": "私は利用規約に同意します",
+        "btn": "登録する",
+        "btnG": "Googleでサインイン",
+        "alread": "すでにアカウントをお持ちですか？",
+        "link": "あなたのアカウントにログイン"
+    },
+    "locale": "Русский",
+    "nav":{
+        "home": "家",
+        "about": "について",
+        "services": "ブログ",
+        "contacts": "連絡先"
+    },
+    "index": "FoxMage3243 メインページ",
+    "about": "私はゲーマーでありアニメプレイヤーであり、3D モデルを作成するファンです。",
+    "home": {
+        "contentWelcome": "私のブログへようこそ",
+        "create": "通常のサイト閲覧向けに設計されています",
+        "btnBusty": "ブースト",
+        "btnFriend": "VKアシスタント"
+    },
+    "console":{
+        "log1": "正常に登録されました"
+    }
+    
+}

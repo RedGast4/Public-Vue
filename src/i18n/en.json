@@ -1,0 +1,42 @@
+{
+    "login": {
+        "title": "Login",
+        "email": "Email",
+        "password": "Password",
+        "remember": "Remember me",
+        "forgot": "Forgot your password?",
+        "btn": "Login",
+        "dont": "Don't have an account?",
+        "link": "Register"
+    },
+    "register": {
+        "title": "Registration",
+        "username": "Username",
+        "email": "Email",
+        "password": "Password",
+        "remember": "I agree to the terms & conditions",
+        "btn": "Register",
+        "btnG": "Sign In With Google",
+        "alread": "Already have an account?",
+        "link": "Login to your account"
+    },
+    "locale": "Japanese",
+    "nav":{
+        "home": "Home",
+        "about": "About",
+        "services": "Blog",
+        "contacts": "Contacts"
+    },
+    "index": "FoxMage3243 main page",
+    "about": "I am a gamer and anime player, a fan of creating 3D Models.",
+    "home": {
+        "contentWelcome": "Welcome to my blog",
+        "create": "Designed for normal site browsing",
+        "btnBusty": "boost",
+        "btnFriend": "VK Assistant"
+    },
+    "console":{
+        "log1": "Successfully registered"
+    }
+    
+}

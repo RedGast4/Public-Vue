@@ -1,0 +1,1 @@
+<button class="NavigationButtonLogin-popup" @click="openModalLogin">{{$t('login.title')}}</button>
